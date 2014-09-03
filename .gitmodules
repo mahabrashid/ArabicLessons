@@ -1,0 +1,6 @@
+[submodule "QuranicArabicAcademyLessons"]
+	path = QuranicArabicAcademyLessons
+	url = git@github.com:mahabrashid/QuranicArabicAcademyLessons.git
+[submodule "WhatsAppArabicLessons"]
+	path = WhatsAppArabicLessons
+	url = git@github.com:mahabrashid/WhatsAppArabicLessons.git
